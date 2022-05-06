@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 ## Head for AWESOME Infra engineer
 
-✏️ I'm studying **cloud infra architecture** and relevant automation tools.
-
-   I have experience of JAVA, JS, React, Android and Python too.
+✏️ I'm studying **cloud infra architecture** and relevant automation tools.  
 
    I love learning new things and There are tons of fun stuffs in this field. That's why I'm so into it.   
    
