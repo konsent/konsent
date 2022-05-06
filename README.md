@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ✏️ I'm studying **cloud infra architecture** and relevant automation tools.  
 
-   I love learning new things and There are tons of fun stuffs in this field. That's why I'm so into it.   
+   I love learning new things and there are tons of fun stuffs in this field. That's why I'm so into it.   
  
   
   
