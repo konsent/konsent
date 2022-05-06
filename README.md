@@ -33,7 +33,12 @@ Here are some ideas to get you started:
 
 ⚒️ **Tools**
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Terraform-7b42bc?style=flat-square&logo=Terraform&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Ansible-ee0000?style=flat-square&logo=Ansible&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Amazon AWS-232f3e?style=flat-square&logo=Amazon AWS&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Terraform-7b42bc?style=flat-square&logo=Terraform&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Ansible-ee0000?style=flat-square&logo=Ansible&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Amazon AWS-232f3e?style=flat-square&logo=Amazon AWS&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/>   
+ 
+  
+  
+  
+<a href="https://konsent.github.io/"><img src="https://img.shields.io/badge/Hoddy Blog-000000?style=flat-square&logo=GitBook&logoColor=ffffff"/></a>
 
 
 
