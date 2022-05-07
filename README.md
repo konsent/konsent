@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
   
   
-<a href="https://konsent.github.io/"><img src="https://img.shields.io/badge/Hoddy Blog-000000?style=flat-square&logo=GitBook&logoColor=ffffff"/></a> ![GitHub followers](https://img.shields.io/github/followers/konsent?style=social)
+<a href="https://konsent.github.io/"><img src="https://img.shields.io/badge/Hoddy Blog-000000?style=flat-square&logo=GitBook&logoColor=ffffff"/></a> 
 
 
 
