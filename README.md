@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ## Head for AWESOME Infra engineer
 
-✏️ I'm studying **cloud infra architecture** and relevant automation tools.  
+✏️ Currently working as a **Cloud Engineer**.  
 
-   I love learning new things and there are tons of fun stuffs in this field. That's why I'm so into it.   
+   I really enjoying studying new things.
  
   
   
